@@ -1,0 +1,13 @@
+Author: Michael Froehlich
+
+1. Change Directory: cd <directoryName> 
+2. Create a Directory: mkdir <newDirectoryName>
+3. Rename a Directory: mv <currentDirectoryName> <newDirectoryName>
+4. List the contents of a directory: ls <directoryName>
+5. Move a file to a new location: mv <filename> <pathToNewLocationIncludingNewFileName>
+6. Copy a file to a new location: cp <filename> <pathToNewLocationIncludingNewFileName>
+7. Search for a string in a file: grep '<stringInQuestion>' <filenameToSearch>
+8. Access the shell of a remote machine: ssh <username>@<host> (e.g. ssh michael@ischool.berkeley.edu)
+9. Remove a directory folder: rm -r <directoryName> 
+
+Note: For all directory / filenames absolute or relative paths can be used. 
